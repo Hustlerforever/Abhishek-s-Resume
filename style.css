@@ -1173,7 +1173,17 @@ button {
 
 
     /* header */
+    header #owner-name {
 
+        height: 400px;
+        width: 350px;
+        text-align: center;
+        font-family: monospace;
+        line-height: normal;
+        margin: 5% 5%;
+        /* border: 2px solid black; */
+    }
+    
 
 
     /* header end */
